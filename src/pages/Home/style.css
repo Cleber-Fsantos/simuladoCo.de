@@ -1,0 +1,24 @@
+.banner{
+    background: url('../../assets/img/bg_Home.png');
+    height: 80vh;
+    display: flex;
+    align-items: center;
+}
+
+.bannerContent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 100%;
+}
+
+.bannerContent img{
+    margin-bottom: 3rem;
+}
+
+.bannerContent p{
+    color: white;
+    font-size: 16px;
+}
